@@ -2,11 +2,11 @@
 
 I'm Tara, a London-based software developer, nature-lover and Hip Hop fan.
 
-:computer: I'm currently learning HTML and CSS.
+:computer: I'm currently learning HTML, CSS and Javascript.
 
-:memo: I'm currently working on creating my portfolio page
+:memo: Right now, I'm working on creating my portfolio page.
 
-:two_hearts: My hobbies include learning to code (obvz), activism, cooking, DJing, being in nature and writing
+:two_hearts: My hobbies include writing (code and words), activism, cooking, DJing and being in nature.
 
 ⚡ Fun fact: Previously I worked in the start-up world as a social media manager where I created content for the likes of Björk, Lovebox and that yellow mattress company.
 
