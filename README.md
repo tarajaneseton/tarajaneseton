@@ -4,7 +4,7 @@ I'm Tara, a London-based software developer, nature-lover and Hip Hop fan.
 
 :memo: Right now, I'm learning React on the Black Codher Full Stack Bootcamp, and working on updating my portfolio site.
 
-:computer: You can check out my HTML & CSS profile page and Javascript timeline project by viewing my repositories above ☝🏽
+:computer: You can check out my HTML & CSS portfolio site and Javascript timeline project by viewing my repositories below 👇🏽
 
 :two_hearts: My hobbies include writing (code and words), activism, cooking, DJing and being in nature.
 
