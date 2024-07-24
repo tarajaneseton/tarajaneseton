@@ -2,11 +2,11 @@
 
 I'm Tara, a London-based software developer, nature-lover and Hip Hop fan.
 
-:memo: Right now, I'm learning React on the Black Codher Full Stack Bootcamp, and working on updating my portfolio site.
+:memo: I'm currently in the 2nd year of my Software Development apprenticeship
 
-:computer: You can check out my HTML & CSS portfolio site and Javascript timeline project by viewing my repositories below 👇🏽
+:computer: I started off in web dev but I'm currently enjoying iOS development
 
-:two_hearts: My hobbies include writing (code and words), activism, cooking, DJing and being in nature.
+:two_hearts: My hobbies include writing (code and words), gardening, music and being in nature.
 
 ⚡ Fun fact: Previously I worked in the start-up world as a social media manager where I created content for the likes of Björk, Lovebox as well as brands like eve Sleep, Carrera and Nolii.
 
